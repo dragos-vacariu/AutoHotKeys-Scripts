@@ -7,9 +7,9 @@ Process, Priority, , High
 
 WatchKeys:	
 
-Q::Enter
-q::Enter
+Q::T
+q::t
 
-X::T
-x::t
+X::Enter
+x::Enter
 
